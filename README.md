@@ -54,10 +54,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This research project illustrates the use of Linear Regression AI algorithm on the Abalone Data Set. In that, we gathered Data to be analyzed to predict the age value. Based on the results we can see a direct correlation between rings, length and shell weight as being the most important feature to predicting the age. The prediction error was very low, however, near the top where the age was at a greater value we can see fluctuation. Since we split the data for training and testing, the results show that the model is reasonably accurate. Not all the results are on point with the test values, especially when you have a value higher than 15 illustrated in fig (1).. Between all the models available I executed lr(Linear regression) due to the highest efficiency and most accurate results.
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Video
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
+https://drive.google.com/file/d/1zhHOtrLSqIaDqTXIwdaAroodzByYdLKj/view?usp=sharing
 
 
 <!-- LICENSE -->
